@@ -6,6 +6,8 @@ penginstalannya cukup mudah
 
 ## Instalasi
 
+Sebelum memulai kalian harus mendownload Python di <a href='https://www.python.org/downloads/'>Python Downloads</a>
+
 pada Desktop Jalankan CMD
 
 ```
